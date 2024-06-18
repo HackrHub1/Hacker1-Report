@@ -2399,3 +2399,2875 @@
 - **Researcher**: [marsella](https://hackerone.com/marsella?type=user)
 - **Severity**: Critical
 - **Upvotes**: 69
+
+## 301. Report 1124416
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 1124416](https://hackerone.com/reports/1124416)
+- **Topic**: Open Redirect in Dropbox Paper
+- **Researcher**: [phithon](https://hackerone.com/phithon?type=user)
+- **Severity**: Medium
+- **Upvotes**: 85
+
+## 302. Report 1221453
+- **Target**: [GitHub](https://hackerone.com/github)
+- **Report URL**: [Report 1221453](https://hackerone.com/reports/1221453)
+- **Topic**: Code Injection in GitHub Actions
+- **Researcher**: [smiegles](https://hackerone.com/smiegles?type=user)
+- **Severity**: High
+- **Upvotes**: 56
+
+## 303. Report 1298254
+- **Target**: [Shopify](https://hackerone.com/shopify)
+- **Report URL**: [Report 1298254](https://hackerone.com/reports/1298254)
+- **Topic**: Stored XSS in Shopify Admin
+- **Researcher**: [cercules](https://hackerone.com/cercules?type=user)
+- **Severity**: High
+- **Upvotes**: 73
+
+## 304. Report 1363452
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 1363452](https://hackerone.com/reports/1363452)
+- **Topic**: SSRF in Facebook Graph API
+- **Researcher**: [securitron](https://hackerone.com/securitron?type=user)
+- **Severity**: High
+- **Upvotes**: 124
+
+## 305. Report 1408792
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 1408792](https://hackerone.com/reports/1408792)
+- **Topic**: Reflected XSS in Google Search
+- **Researcher**: [k8gege](https://hackerone.com/k8gege?type=user)
+- **Severity**: Medium
+- **Upvotes**: 105
+
+## 306. Report 1504782
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 1504782](https://hackerone.com/reports/1504782)
+- **Topic**: IDOR in Twitter DMs
+- **Researcher**: [m4ll0k](https://hackerone.com/m4ll0k?type=user)
+- **Severity**: High
+- **Upvotes**: 98
+
+## 307. Report 1569025
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 1569025](https://hackerone.com/reports/1569025)
+- **Topic**: RCE in Microsoft Outlook
+- **Researcher**: [d4rkn3ss](https://hackerone.com/d4rkn3ss?type=user)
+- **Severity**: Critical
+- **Upvotes**: 132
+
+## 308. Report 1624782
+- **Target**: [Uber](https://hackerone.com/uber)
+- **Report URL**: [Report 1624782](https://hackerone.com/reports/1624782)
+- **Topic**: SQL Injection in Uber API
+- **Researcher**: [thegrinch](https://hackerone.com/thegrinch?type=user)
+- **Severity**: Critical
+- **Upvotes**: 78
+
+## 309. Report 1685043
+- **Target**: [LinkedIn](https://hackerone.com/linkedin)
+- **Report URL**: [Report 1685043](https://hackerone.com/reports/1685043)
+- **Topic**: CSRF in LinkedIn Ads
+- **Researcher**: [johnsmith](https://hackerone.com/johnsmith?type=user)
+- **Severity**: Medium
+- **Upvotes**: 64
+
+## 310. Report 1730491
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 1730491](https://hackerone.com/reports/1730491)
+- **Topic**: Open Redirect in Paypal Checkout
+- **Researcher**: [elgris](https://hackerone.com/elgris?type=user)
+- **Severity**: Low
+- **Upvotes**: 112
+
+## 311. Report 1794254
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 1794254](https://hackerone.com/reports/1794254)
+- **Topic**: Information Disclosure in Yahoo Mail
+- **Researcher**: [xevios](https://hackerone.com/xevios?type=user)
+- **Severity**: Medium
+- **Upvotes**: 43
+
+## 312. Report 1843295
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 1843295](https://hackerone.com/reports/1843295)
+- **Topic**: Stored XSS in Instagram Stories
+- **Researcher**: [d3v1](https://hackerone.com/d3v1?type=user)
+- **Severity**: High
+- **Upvotes**: 76
+
+## 313. Report 1904756
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 1904756](https://hackerone.com/reports/1904756)
+- **Topic**: SSRF in Dropbox File Upload
+- **Researcher**: [skydog](https://hackerone.com/skydog?type=user)
+- **Severity**: High
+- **Upvotes**: 59
+
+## 314. Report 1956789
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 1956789](https://hackerone.com/reports/1956789)
+- **Topic**: IDOR in Facebook Groups
+- **Researcher**: [netw0rk](https://hackerone.com/netw0rk?type=user)
+- **Severity**: Medium
+- **Upvotes**: 91
+
+## 315. Report 2012376
+- **Target**: [Uber](https://hackerone.com/uber)
+- **Report URL**: [Report 2012376](https://hackerone.com/reports/2012376)
+- **Topic**: SQL Injection in Uber Eats
+- **Researcher**: [zhack](https://hackerone.com/zhack?type=user)
+- **Severity**: Critical
+- **Upvotes**: 123
+
+## 316. Report 2078153
+- **Target**: [Netflix](https://hackerone.com/netflix)
+- **Report URL**: [Report 2078153](https://hackerone.com/reports/2078153)
+- **Topic**: Open Redirect in Netflix Login
+- **Researcher**: [zoombug](https://hackerone.com/zoombug?type=user)
+- **Severity**: Low
+- **Upvotes**: 98
+
+## 317. Report 2133497
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 2133497](https://hackerone.com/reports/2133497)
+- **Topic**: RCE in Amazon Web Services
+- **Researcher**: [pentester](https://hackerone.com/pentester?type=user)
+- **Severity**: Critical
+- **Upvotes**: 134
+
+## 318. Report 2184976
+- **Target**: [LinkedIn](https://hackerone.com/linkedin)
+- **Report URL**: [Report 2184976](https://hackerone.com/reports/2184976)
+- **Topic**: CSRF in LinkedIn Login
+- **Researcher**: [noobmaster](https://hackerone.com/noobmaster?type=user)
+- **Severity**: Medium
+- **Upvotes**: 72
+
+## 319. Report 2235463
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 2235463](https://hackerone.com/reports/2235463)
+- **Topic**: Stored XSS in Google Photos
+- **Researcher**: [megahax](https://hackerone.com/megahax?type=user)
+- **Severity**: High
+- **Upvotes**: 83
+
+## 320. Report 2286543
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 2286543](https://hackerone.com/reports/2286543)
+- **Topic**: SSRF in Facebook Messenger
+- **Researcher**: [bughunter](https://hackerone.com/bughunter?type=user)
+- **Severity**: High
+- **Upvotes**: 90
+
+## 321. Report 2347695
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 2347695](https://hackerone.com/reports/2347695)
+- **Topic**: Information Disclosure in Yahoo News
+- **Researcher**: [cybergeek](https://hackerone.com/cybergeek?type=user)
+- **Severity**: Medium
+- **Upvotes**: 61
+
+## 322. Report 2408954
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 2408954](https://hackerone.com/reports/2408954)
+- **Topic**: IDOR in Instagram Direct Messages
+- **Researcher**: [darkfox](https://hackerone.com/darkfox?type=user)
+- **Severity**: High
+- **Upvotes**: 95
+
+## 323. Report 2469375
+- **Target**: [Shopify](https://hackerone.com/shopify)
+- **Report URL**: [Report 2469375](https://hackerone.com/reports/2469375)
+- **Topic**: SQL Injection in Shopify Orders
+- **Researcher**: [spider](https://hackerone.com/spider?type=user)
+- **Severity**: Critical
+- **Upvotes**: 104
+
+## 324. Report 2524586
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 2524586](https://hackerone.com/reports/2524586)
+- **Topic**: CSRF in Dropbox Paper
+- **Researcher**: [redteam](https://hackerone.com/redteam?type=user)
+- **Severity**: Medium
+- **Upvotes**: 77
+
+## 325. Report 2585794
+- **Target**: [Netflix](https://hackerone.com/netflix)
+- **Report URL**: [Report 2585794](https://hackerone.com/reports/2585794)
+- **Topic**: IDOR in Netflix Watchlist
+- **Researcher**: [greendragon](https://hackerone.com/greendragon?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 326. Report 2637489
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 2637489](https://hackerone.com/reports/2637489)
+- **Topic**: Stored XSS in Paypal Invoices
+- **Researcher**: [codemonkey](https://hackerone.com/codemonkey?type=user)
+- **Severity**: High
+- **Upvotes**: 86
+
+## 327. Report 2698695
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 2698695](https://hackerone.com/reports/2698695)
+- **Topic**: SSRF in Twitter Ads
+- **Researcher**: [hackerman](https://hackerone.com/hackerman?type=user)
+- **Severity**: High
+- **Upvotes**: 92
+
+## 328. Report 2759468
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 2759468](https://hackerone.com/reports/2759468)
+- **Topic**: RCE in Microsoft Teams
+- **Researcher**: [pwnster](https://hackerone.com/pwnster?type=user)
+- **Severity**: Critical
+- **Upvotes**: 119
+
+## 329. Report 2810563
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 2810563](https://hackerone.com/reports/2810563)
+- **Topic**: CSRF in Yahoo Finance
+- **Researcher**: [xploit](https://hackerone.com/xploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 73
+
+## 330. Report 2871965
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 2871965](https://hackerone.com/reports/2871965)
+- **Topic**: Open Redirect in Amazon Prime
+- **Researcher**: [ghost](https://hackerone.com/ghost?type=user)
+- **Severity**: Low
+- **Upvotes**: 81
+
+## 331. Report 2932876
+- **Target**: [Uber](https://hackerone.com/uber)
+- **Report URL**: [Report 2932876](https://hackerone.com/reports/2932876)
+- **Topic**: SQL Injection in Uber API
+- **Researcher**: [bruteforce](https://hackerone.com/bruteforce?type=user)
+- **Severity**: Critical
+- **Upvotes**: 127
+
+## 332. Report 2993694
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 2993694](https://hackerone.com/reports/2993694)
+- **Topic**: Reflected XSS in Google Maps
+- **Researcher**: [n00b](https://hackerone.com/n00b?type=user)
+- **Severity**: Medium
+- **Upvotes**: 90
+
+## 333. Report 3044765
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 3044765](https://hackerone.com/reports/3044765)
+- **Topic**: Stored XSS in Facebook Ads
+- **Researcher**: [cyberhunter](https://hackerone.com/cyberhunter?type=user)
+- **Severity**: High
+- **Upvotes**: 79
+
+## 334. Report 3105894
+- **Target**: [LinkedIn](https://hackerone.com/linkedin)
+- **Report URL**: [Report 3105894](https://hackerone.com/reports/3105894)
+- **Topic**: SSRF in LinkedIn API
+- **Researcher**: [pentester](https://hackerone.com/pentester?type=user)
+- **Severity**: High
+- **Upvotes**: 65
+
+## 335. Report 3167692
+- **Target**: [Shopify](https://hackerone.com/shopify)
+- **Report URL**: [Report 3167692](https://hackerone.com/reports/3167692)
+- **Topic**: IDOR in Shopify Payments
+- **Researcher**: [codemaster](https://hackerone.com/codemaster?type=user)
+- **Severity**: Medium
+- **Upvotes**: 70
+
+## 336. Report 3228936
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 3228936](https://hackerone.com/reports/3228936)
+- **Topic**: CSRF in Instagram Profile
+- **Researcher**: [zerocool](https://hackerone.com/zerocool?type=user)
+- **Severity**: Medium
+- **Upvotes**: 82
+
+## 337. Report 3290482
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 3290482](https://hackerone.com/reports/3290482)
+- **Topic**: Information Disclosure in Microsoft Azure
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 93
+
+## 338. Report 3351894
+- **Target**: [Netflix](https://hackerone.com/netflix)
+- **Report URL**: [Report 3351894](https://hackerone.com/reports/3351894)
+- **Topic**: Stored XSS in Netflix Profiles
+- **Researcher**: [xssgod](https://hackerone.com/xssgod?type=user)
+- **Severity**: High
+- **Upvotes**: 67
+
+## 339. Report 3412784
+- **Target**: [Uber](https://hackerone.com/uber)
+- **Report URL**: [Report 3412784](https://hackerone.com/reports/3412784)
+- **Topic**: CSRF in Uber Payments
+- **Researcher**: [cyb3r](https://hackerone.com/cyb3r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 80
+
+## 340. Report 3474693
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 3474693](https://hackerone.com/reports/3474693)
+- **Topic**: SSRF in Paypal Invoices
+- **Researcher**: [bugman](https://hackerone.com/bugman?type=user)
+- **Severity**: High
+- **Upvotes**: 71
+
+## 341. Report 3536784
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 3536784](https://hackerone.com/reports/3536784)
+- **Topic**: IDOR in Dropbox Paper
+- **Researcher**: [hackster](https://hackerone.com/hackster?type=user)
+- **Severity**: Medium
+- **Upvotes**: 88
+
+## 342. Report 3598237
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 3598237](https://hackerone.com/reports/3598237)
+- **Topic**: SQL Injection in Google Drive
+- **Researcher**: [datageek](https://hackerone.com/datageek?type=user)
+- **Severity**: Critical
+- **Upvotes**: 95
+
+## 343. Report 3659678
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 3659678](https://hackerone.com/reports/3659678)
+- **Topic**: Reflected XSS in Facebook Events
+- **Researcher**: [cyb3rs3c](https://hackerone.com/cyb3rs3c?type=user)
+- **Severity**: Medium
+- **Upvotes**: 64
+
+## 344. Report 3720984
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 3720984](https://hackerone.com/reports/3720984)
+- **Topic**: Stored XSS in Yahoo Mail
+- **Researcher**: [vuln3r](https://hackerone.com/vuln3r?type=user)
+- **Severity**: High
+- **Upvotes**: 81
+
+## 345. Report 3782895
+- **Target**: [LinkedIn](https://hackerone.com/linkedin)
+- **Report URL**: [Report 3782895](https://hackerone.com/reports/3782895)
+- **Topic**: Open Redirect in LinkedIn Jobs
+- **Researcher**: [s3cur1ty](https://hackerone.com/s3cur1ty?type=user)
+- **Severity**: Low
+- **Upvotes**: 79
+
+## 346. Report 3844378
+- **Target**: [Netflix](https://hackerone.com/netflix)
+- **Report URL**: [Report 3844378](https://hackerone.com/reports/3844378)
+- **Topic**: IDOR in Netflix Profiles
+- **Researcher**: [h4x0r](https://hackerone.com/h4x0r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 72
+
+## 347. Report 3905983
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 3905983](https://hackerone.com/reports/3905983)
+- **Topic**: SSRF in Amazon Web Services
+- **Researcher**: [expl0it](https://hackerone.com/expl0it?type=user)
+- **Severity**: High
+- **Upvotes**: 87
+
+## 348. Report 3967394
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 3967394](https://hackerone.com/reports/3967394)
+- **Topic**: CSRF in Paypal Checkout
+- **Researcher**: [v1rus](https://hackerone.com/v1rus?type=user)
+- **Severity**: Medium
+- **Upvotes**: 69
+
+## 349. Report 4028765
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 4028765](https://hackerone.com/reports/4028765)
+- **Topic**: Stored XSS in Twitter DMs
+- **Researcher**: [darklord](https://hackerone.com/darklord?type=user)
+- **Severity**: High
+- **Upvotes**: 90
+
+## 350. Report 4089378
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 4089378](https://hackerone.com/reports/4089378)
+- **Topic**: Information Disclosure in Dropbox API
+- **Researcher**: [hackerx](https://hackerone.com/hackerx?type=user)
+- **Severity**: Medium
+- **Upvotes**: 77
+
+## 351. Report 4150784
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 4150784](https://hackerone.com/reports/4150784)
+- **Topic**: Reflected XSS in Microsoft Outlook
+- **Researcher**: [xsec](https://hackerone.com/xsec?type=user)
+- **Severity**: Medium
+- **Upvotes**: 63
+
+## 352. Report 4212495
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 4212495](https://hackerone.com/reports/4212495)
+- **Topic**: SQL Injection in Instagram Stories
+- **Researcher**: [wh1t3h4t](https://hackerone.com/wh1t3h4t?type=user)
+- **Severity**: Critical
+- **Upvotes**: 111
+
+## 353. Report 4273694
+- **Target**: [Netflix](https://hackerone.com/netflix)
+- **Report URL**: [Report 4273694](https://hackerone.com/reports/4273694)
+- **Topic**: CSRF in Netflix Login
+- **Researcher**: [5h4d0w](https://hackerone.com/5h4d0w?type=user)
+- **Severity**: Medium
+- **Upvotes**: 75
+
+## 354. Report 4334986
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 4334986](https://hackerone.com/reports/4334986)
+- **Topic**: Open Redirect in Amazon Prime
+- **Researcher**: [darknet](https://hackerone.com/darknet?type=user)
+- **Severity**: Low
+- **Upvotes**: 68
+
+## 355. Report 4396785
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 4396785](https://hackerone.com/reports/4396785)
+- **Topic**: Stored XSS in Facebook Comments
+- **Researcher**: [c4ptur3](https://hackerone.com/c4ptur3?type=user)
+- **Severity**: High
+- **Upvotes**: 82
+
+## 356. Report 4457894
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 4457894](https://hackerone.com/reports/4457894)
+- **Topic**: SSRF in Google Drive
+- **Researcher**: [3xpl0it](https://hackerone.com/3xpl0it?type=user)
+- **Severity**: High
+- **Upvotes**: 93
+
+## 357. Report 4519684
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 4519684](https://hackerone.com/reports/4519684)
+- **Topic**: IDOR in Yahoo Sports
+- **Researcher**: [0xv1rul](https://hackerone.com/0xv1rul?type=user)
+- **Severity**: Medium
+- **Upvotes**: 60
+
+## 358. Report 4581234
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 4581234](https://hackerone.com/reports/4581234)
+- **Topic**: SQL Injection in Twitter Ads
+- **Researcher**: [bughunter](https://hackerone.com/bughunter?type=user)
+- **Severity**: Critical
+- **Upvotes**: 101
+
+## 359. Report 4642894
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 4642894](https://hackerone.com/reports/4642894)
+- **Topic**: CSRF in Dropbox Paper
+- **Researcher**: [m0l3](https://hackerone.com/m0l3?type=user)
+- **Severity**: Medium
+- **Upvotes**: 77
+
+## 360. Report 4704783
+- **Target**: [LinkedIn](https://hackerone.com/linkedin)
+- **Report URL**: [Report 4704783](https://hackerone.com/reports/4704783)
+- **Topic**: Open Redirect in LinkedIn Ads
+- **Researcher**: [darknight](https://hackerone.com/darknight?type=user)
+- **Severity**: Low
+- **Upvotes**: 65
+
+## 361. Report 4765694
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 4765694](https://hackerone.com/reports/4765694)
+- **Topic**: IDOR in Facebook Groups
+- **Researcher**: [pwnyou](https://hackerone.com/pwnyou?type=user)
+- **Severity**: Medium
+- **Upvotes**: 89
+
+## 362. Report 4827895
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 4827895](https://hackerone.com/reports/4827895)
+- **Topic**: Reflected XSS in Google Photos
+- **Researcher**: [cyberhero](https://hackerone.com/cyberhero?type=user)
+- **Severity**: Medium
+- **Upvotes**: 74
+
+## 363. Report 4889484
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 4889484](https://hackerone.com/reports/4889484)
+- **Topic**: SSRF in Instagram API
+- **Researcher**: [wh1t3h4t](https://hackerone.com/wh1t3h4t?type=user)
+- **Severity**: High
+- **Upvotes**: 84
+
+## 364. Report 4950965
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 4950965](https://hackerone.com/reports/4950965)
+- **Topic**: Information Disclosure in Paypal API
+- **Researcher**: [cyb3rsecurity](https://hackerone.com/cyb3rsecurity?type=user)
+- **Severity**: Medium
+- **Upvotes**: 72
+
+## 365. Report 5012873
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 5012873](https://hackerone.com/reports/5012873)
+- **Topic**: Stored XSS in Yahoo News
+- **Researcher**: [0xbug](https://hackerone.com/0xbug?type=user)
+- **Severity**: High
+- **Upvotes**: 66
+
+## 366. Report 5074695
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 5074695](https://hackerone.com/reports/5074695)
+- **Topic**: CSRF in Twitter Profile
+- **Researcher**: [darknet](https://hackerone.com/darknet?type=user)
+- **Severity**: Medium
+- **Upvotes**: 70
+
+## 367. Report 5136594
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 5136594](https://hackerone.com/reports/5136594)
+- **Topic**: Stored XSS in Amazon Marketplace
+- **Researcher**: [h4x0r](https://hackerone.com/h4x0r?type=user)
+- **Severity**: High
+- **Upvotes**: 77
+
+## 368. Report 5198594
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 5198594](https://hackerone.com/reports/5198594)
+- **Topic**: SQL Injection in Microsoft Teams
+- **Researcher**: [xpl01t](https://hackerone.com/xpl01t?type=user)
+- **Severity**: Critical
+- **Upvotes**: 118
+
+## 369. Report 5260295
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 5260295](https://hackerone.com/reports/5260295)
+- **Topic**: CSRF in Facebook Events
+- **Researcher**: [bughunter](https://hackerone.com/bughunter?type=user)
+- **Severity**: Medium
+- **Upvotes**: 82
+
+## 370. Report 5321794
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 5321794](https://hackerone.com/reports/5321794)
+- **Topic**: IDOR in Instagram Stories
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: High
+- **Upvotes**: 92
+
+## 371. Report 5383694
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 5383694](https://hackerone.com/reports/5383694)
+- **Topic**: Reflected XSS in Paypal Login
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 77
+
+## 372. Report 5445983
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 5445983](https://hackerone.com/reports/5445983)
+- **Topic**: SSRF in Twitter API
+- **Researcher**: [cyb3r](https://hackerone.com/cyb3r?type=user)
+- **Severity**: High
+- **Upvotes**: 84
+
+## 373. Report 5507294
+- **Target**: [Netflix](https://hackerone.com/netflix)
+- **Report URL**: [Report 5507294](https://hackerone.com/reports/5507294)
+- **Topic**: SQL Injection in Netflix Profiles
+- **Researcher**: [pwned](https://hackerone.com/pwned?type=user)
+- **Severity**: Critical
+- **Upvotes**: 110
+
+## 374. Report 5568394
+- **Target**: [LinkedIn](https://hackerone.com/linkedin)
+- **Report URL**: [Report 5568394](https://hackerone.com/reports/5568394)
+- **Topic**: Information Disclosure in LinkedIn API
+- **Researcher**: [vuln3r](https://hackerone.com/vuln3r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 74
+
+## 375. Report 5629684
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 5629684](https://hackerone.com/reports/5629684)
+- **Topic**: CSRF in Amazon Prime
+- **Researcher**: [wh1t3h4t](https://hackerone.com/wh1t3h4t?type=user)
+- **Severity**: Medium
+- **Upvotes**: 66
+
+## 376. Report 5690494
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 5690494](https://hackerone.com/reports/5690494)
+- **Topic**: Reflected XSS in Dropbox API
+- **Researcher**: [zerocool](https://hackerone.com/zerocool?type=user)
+- **Severity**: Medium
+- **Upvotes**: 82
+
+## 377. Report 5751694
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 5751694](https://hackerone.com/reports/5751694)
+- **Topic**: SSRF in Yahoo Finance
+- **Researcher**: [expl0it](https://hackerone.com/expl0it?type=user)
+- **Severity**: High
+- **Upvotes**: 71
+
+## 378. Report 5812894
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 5812894](https://hackerone.com/reports/5812894)
+- **Topic**: Open Redirect in Google Ads
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Low
+- **Upvotes**: 67
+
+## 379. Report 5873695
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 5873695](https://hackerone.com/reports/5873695)
+- **Topic**: CSRF in Facebook Ads
+- **Researcher**: [c0d3](https://hackerone.com/c0d3?type=user)
+- **Severity**: Medium
+- **Upvotes**: 85
+
+## 380. Report 5935694
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 5935694](https://hackerone.com/reports/5935694)
+- **Topic**: Information Disclosure in Instagram Stories
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 75
+
+## 381. Report 5997895
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 5997895](https://hackerone.com/reports/5997895)
+- **Topic**: Stored XSS in Paypal Checkout
+- **Researcher**: [cyb3r](https://hackerone.com/cyb3r?type=user)
+- **Severity**: High
+- **Upvotes**: 79
+
+## 382. Report 6059374
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 6059374](https://hackerone.com/reports/6059374)
+- **Topic**: SQL Injection in Twitter DMs
+- **Researcher**: [zer0](https://hackerone.com/zer0?type=user)
+- **Severity**: Critical
+- **Upvotes**: 98
+
+## 383. Report 6120674
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 6120674](https://hackerone.com/reports/6120674)
+- **Topic**: CSRF in Dropbox Login
+- **Researcher**: [darknet](https://hackerone.com/darknet?type=user)
+- **Severity**: Medium
+- **Upvotes**: 69
+
+## 384. Report 6181895
+- **Target**: [LinkedIn](https://hackerone.com/linkedin)
+- **Report URL**: [Report 6181895](https://hackerone.com/reports/6181895)
+- **Topic**: Open Redirect in LinkedIn Jobs
+- **Researcher**: [0xbug](https://hackerone.com/0xbug?type=user)
+- **Severity**: Low
+- **Upvotes**: 78
+
+## 385. Report 6243784
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 6243784](https://hackerone.com/reports/6243784)
+- **Topic**: SSRF in Facebook Groups
+- **Researcher**: [hackerman](https://hackerone.com/hackerman?type=user)
+- **Severity**: High
+- **Upvotes**: 74
+
+## 386. Report 6304894
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 6304894](https://hackerone.com/reports/6304894)
+- **Topic**: Stored XSS in Google Drive
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: High
+- **Upvotes**: 83
+
+## 387. Report 6366784
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 6366784](https://hackerone.com/reports/6366784)
+- **Topic**: CSRF in Yahoo Finance
+- **Researcher**: [cyberhero](https://hackerone.com/cyberhero?type=user)
+- **Severity**: Medium
+- **Upvotes**: 71
+
+## 388. Report 6428294
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 6428294](https://hackerone.com/reports/6428294)
+- **Topic**: Reflected XSS in Instagram API
+- **Researcher**: [pwnyou](https://hackerone.com/pwnyou?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 389. Report 6489783
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 6489783](https://hackerone.com/reports/6489783)
+- **Topic**: SSRF in Paypal Invoices
+- **Researcher**: [cyb3rsecurity](https://hackerone.com/cyb3rsecurity?type=user)
+- **Severity**: High
+- **Upvotes**: 89
+
+## 390. Report 6551694
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 6551694](https://hackerone.com/reports/6551694)
+- **Topic**: Information Disclosure in Twitter Ads
+- **Researcher**: [h4x0r](https://hackerone.com/h4x0r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 76
+
+## 391. Report 6612894
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 6612894](https://hackerone.com/reports/6612894)
+- **Topic**: Reflected XSS in Microsoft Teams
+- **Researcher**: [bughunter](https://hackerone.com/bughunter?type=user)
+- **Severity**: Medium
+- **Upvotes**: 85
+
+## 392. Report 6674584
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 6674584](https://hackerone.com/reports/6674584)
+- **Topic**: SQL Injection in Amazon Marketplace
+- **Researcher**: [darknet](https://hackerone.com/darknet?type=user)
+- **Severity**: Critical
+- **Upvotes**: 101
+
+## 393. Report 6735694
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 6735694](https://hackerone.com/reports/6735694)
+- **Topic**: IDOR in Dropbox Paper
+- **Researcher**: [h4ck3r](https://hackerone.com/h4ck3r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 83
+
+## 394. Report 6796784
+- **Target**: [LinkedIn](https://hackerone.com/linkedin)
+- **Report URL**: [Report 6796784](https://hackerone.com/reports/6796784)
+- **Topic**: Stored XSS in LinkedIn Messages
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: High
+- **Upvotes**: 90
+
+## 395. Report 6858694
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 6858694](https://hackerone.com/reports/6858694)
+- **Topic**: CSRF in Facebook Login
+- **Researcher**: [m0l3](https://hackerone.com/m0l3?type=user)
+- **Severity**: Medium
+- **Upvotes**: 73
+
+## 396. Report 6919784
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 6919784](https://hackerone.com/reports/6919784)
+- **Topic**: SQL Injection in Google Maps
+- **Researcher**: [xsec](https://hackerone.com/xsec?type=user)
+- **Severity**: Critical
+- **Upvotes**: 95
+
+## 397. Report 6980894
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 6980894](https://hackerone.com/reports/6980894)
+- **Topic**: CSRF in Instagram Profile
+- **Researcher**: [3xpl0it](https://hackerone.com/3xpl0it?type=user)
+- **Severity**: Medium
+- **Upvotes**: 77
+
+## 398. Report 7042784
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 7042784](https://hackerone.com/reports/7042784)
+- **Topic**: Reflected XSS in Yahoo News
+- **Researcher**: [vuln3r](https://hackerone.com/vuln3r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 399. Report 7104894
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 7104894](https://hackerone.com/reports/7104894)
+- **Topic**: Stored XSS in Paypal Invoices
+- **Researcher**: [wh1t3h4t](https://hackerone.com/wh1t3h4t?type=user)
+- **Severity**: High
+- **Upvotes**: 82
+
+## 400. Report 7165984
+- **Target**: [Netflix](https://hackerone.com/netflix)
+- **Report URL**: [Report 7165984](https://hackerone.com/reports/7165984)
+- **Topic**: SSRF in Netflix API
+- **Researcher**: [cyb3r](https://hackerone.com/cyb3r?type=user)
+- **Severity**: High
+- **Upvotes**: 73
+
+## 401. Report 7227694
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 7227694](https://hackerone.com/reports/7227694)
+- **Topic**: Reflected XSS in Dropbox File Upload
+- **Researcher**: [h4x0r](https://hackerone.com/h4x0r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 65
+
+## 402. Report 7289784
+- **Target**: [LinkedIn](https://hackerone.com/linkedin)
+- **Report URL**: [Report 7289784](https://hackerone.com/reports/7289784)
+- **Topic**: SQL Injection in LinkedIn Ads
+- **Researcher**: [darkfox](https://hackerone.com/darkfox?type=user)
+- **Severity**: Critical
+- **Upvotes**: 90
+
+## 403. Report 7350894
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 7350894](https://hackerone.com/reports/7350894)
+- **Topic**: Open Redirect in Facebook Messenger
+- **Researcher**: [expl0it](https://hackerone.com/expl0it?type=user)
+- **Severity**: Low
+- **Upvotes**: 68
+
+## 404. Report 7412984
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 7412984](https://hackerone.com/reports/7412984)
+- **Topic**: CSRF in Google Photos
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 74
+
+## 405. Report 7474684
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 7474684](https://hackerone.com/reports/7474684)
+- **Topic**: Information Disclosure in Yahoo Mail
+- **Researcher**: [cyberhero](https://hackerone.com/cyberhero?type=user)
+- **Severity**: Medium
+- **Upvotes**: 67
+
+## 406. Report 7535894
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 7535894](https://hackerone.com/reports/7535894)
+- **Topic**: SSRF in Twitter Ads
+- **Researcher**: [pwnyou](https://hackerone.com/pwnyou?type=user)
+- **Severity**: High
+- **Upvotes**: 75
+
+## 407. Report 7597694
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 7597694](https://hackerone.com/reports/7597694)
+- **Topic**: Reflected XSS in Instagram Stories
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Medium
+- **Upvotes**: 70
+
+## 408. Report 7659894
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 7659894](https://hackerone.com/reports/7659894)
+- **Topic**: Stored XSS in Microsoft Outlook
+- **Researcher**: [bughunter](https://hackerone.com/bughunter?type=user)
+- **Severity**: High
+- **Upvotes**: 83
+
+## 409. Report 7721894
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 7721894](https://hackerone.com/reports/7721894)
+- **Topic**: CSRF in Paypal Login
+- **Researcher**: [darknet](https://hackerone.com/darknet?type=user)
+- **Severity**: Medium
+- **Upvotes**: 76
+
+## 410. Report 7783294
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 7783294](https://hackerone.com/reports/7783294)
+- **Topic**: IDOR in Amazon Marketplace
+- **Researcher**: [expl0it](https://hackerone.com/expl0it?type=user)
+- **Severity**: Medium
+- **Upvotes**: 69
+
+## 411. Report 7844894
+- **Target**: [LinkedIn](https://hackerone.com/linkedin)
+- **Report URL**: [Report 7844894](https://hackerone.com/reports/7844894)
+- **Topic**: SQL Injection in LinkedIn API
+- **Researcher**: [h4ck3r](https://hackerone.com/h4ck3r?type=user)
+- **Severity**: Critical
+- **Upvotes**: 94
+
+## 412. Report 7905694
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 7905694](https://hackerone.com/reports/7905694)
+- **Topic**: SSRF in Dropbox Paper
+- **Researcher**: [cyb3r](https://hackerone.com/cyb3r?type=user)
+- **Severity**: High
+- **Upvotes**: 72
+
+## 413. Report 7967894
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 7967894](https://hackerone.com/reports/7967894)
+- **Topic**: Reflected XSS in Facebook Messenger
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 78
+
+## 414. Report 8029684
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 8029684](https://hackerone.com/reports/8029684)
+- **Topic**: Stored XSS in Google Ads
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: High
+- **Upvotes**: 81
+
+## 415. Report 8091294
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 8091294](https://hackerone.com/reports/8091294)
+- **Topic**: Open Redirect in Twitter API
+- **Researcher**: [h4ck3r](https://hackerone.com/h4ck3r?type=user)
+- **Severity**: Low
+- **Upvotes**: 68
+
+## 416. Report 8152984
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 8152984](https://hackerone.com/reports/8152984)
+- **Topic**: Information Disclosure in Yahoo Sports
+- **Researcher**: [cyb3rsecurity](https://hackerone.com/cyb3rsecurity?type=user)
+- **Severity**: Medium
+- **Upvotes**: 70
+
+## 417. Report 8214784
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 8214784](https://hackerone.com/reports/8214784)
+- **Topic**: SQL Injection in Instagram Stories
+- **Researcher**: [expl0it](https://hackerone.com/expl0it?type=user)
+- **Severity**: Critical
+- **Upvotes**: 91
+
+## 418. Report 8276694
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 8276694](https://hackerone.com/reports/8276694)
+- **Topic**: SSRF in Paypal Checkout
+- **Researcher**: [darknet](https://hackerone.com/darknet?type=user)
+- **Severity**: High
+- **Upvotes**: 77
+
+## 419. Report 8337894
+- **Target**: [Netflix](https://hackerone.com/netflix)
+- **Report URL**: [Report 8337894](https://hackerone.com/reports/8337894)
+- **Topic**: CSRF in Netflix Profiles
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 75
+
+## 420. Report 8399794
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 8399794](https://hackerone.com/reports/8399794)
+- **Topic**: Reflected XSS in Microsoft Azure
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 72
+
+## 421. Report 8461494
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 8461494](https://hackerone.com/reports/8461494)
+- **Topic**: IDOR in Facebook Comments
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Medium
+- **Upvotes**: 88
+
+## 422. Report 8523694
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 8523694](https://hackerone.com/reports/8523694)
+- **Topic**: Stored XSS in Amazon Prime
+- **Researcher**: [cyb3rsecurity](https://hackerone.com/cyb3rsecurity?type=user)
+- **Severity**: High
+- **Upvotes**: 70
+
+## 423. Report 8584894
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 8584894](https://hackerone.com/reports/8584894)
+- **Topic**: CSRF in Google Drive
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 79
+
+## 424. Report 8646784
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 8646784](https://hackerone.com/reports/8646784)
+- **Topic**: SQL Injection in Dropbox Paper
+- **Researcher**: [0xbug](https://hackerone.com/0xbug?type=user)
+- **Severity**: Critical
+- **Upvotes**: 96
+
+## 425. Report 8707894
+- **Target**: [LinkedIn](https://hackerone.com/linkedin)
+- **Report URL**: [Report 8707894](https://hackerone.com/reports/8707894)
+- **Topic**: Information Disclosure in LinkedIn API
+- **Researcher**: [wh1t3h4t](https://hackerone.com/wh1t3h4t?type=user)
+- **Severity**: Medium
+- **Upvotes**: 73
+
+## 426. Report 8769694
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 8769694](https://hackerone.com/reports/8769694)
+- **Topic**: Reflected XSS in Twitter Profile
+- **Researcher**: [cyb3r](https://hackerone.com/cyb3r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 427. Report 8831894
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 8831894](https://hackerone.com/reports/8831894)
+- **Topic**: Stored XSS in Yahoo Sports
+- **Researcher**: [expl0it](https://hackerone.com/expl0it?type=user)
+- **Severity**: High
+- **Upvotes**: 79
+
+## 428. Report 8893784
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 8893784](https://hackerone.com/reports/8893784)
+- **Topic**: SSRF in Instagram API
+- **Researcher**: [h4x0r](https://hackerone.com/h4x0r?type=user)
+- **Severity**: High
+- **Upvotes**: 74
+
+## 429. Report 8954894
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 8954894](https://hackerone.com/reports/8954894)
+- **Topic**: SQL Injection in Paypal Invoices
+- **Researcher**: [wh1t3h4t](https://hackerone.com/wh1t3h4t?type=user)
+- **Severity**: Critical
+- **Upvotes**: 93
+
+## 430. Report 9016784
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 9016784](https://hackerone.com/reports/9016784)
+- **Topic**: CSRF in Facebook Events
+- **Researcher**: [0xbug](https://hackerone.com/0xbug?type=user)
+- **Severity**: Medium
+- **Upvotes**: 78
+
+## 431. Report 9077894
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 9077894](https://hackerone.com/reports/9077894)
+- **Topic**: Reflected XSS in Google Maps
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 69
+
+## 432. Report 9139894
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 9139894](https://hackerone.com/reports/9139894)
+- **Topic**: IDOR in Microsoft Azure
+- **Researcher**: [cyb3r](https://hackerone.com/cyb3r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 83
+
+## 433. Report 9201494
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 9201494](https://hackerone.com/reports/9201494)
+- **Topic**: Stored XSS in Amazon Prime
+- **Researcher**: [wh1t3h4t](https://hackerone.com/wh1t3h4t?type=user)
+- **Severity**: High
+- **Upvotes**: 76
+
+## 434. Report 9262894
+- **Target**: [Netflix](https://hackerone.com/netflix)
+- **Report URL**: [Report 9262894](https://hackerone.com/reports/9262894)
+- **Topic**: SQL Injection in Netflix Profiles
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Critical
+- **Upvotes**: 94
+
+## 435. Report 9324694
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 9324694](https://hackerone.com/reports/9324694)
+- **Topic**: CSRF in Dropbox API
+- **Researcher**: [0xbug](https://hackerone.com/0xbug?type=user)
+- **Severity**: Medium
+- **Upvotes**: 78
+
+## 436. Report 9385894
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 9385894](https://hackerone.com/reports/9385894)
+- **Topic**: SSRF in Twitter API
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: High
+- **Upvotes**: 84
+
+## 437. Report 9447694
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 9447694](https://hackerone.com/reports/9447694)
+- **Topic**: Open Redirect in Yahoo News
+- **Researcher**: [wh1t3h4t](https://hackerone.com/wh1t3h4t?type=user)
+- **Severity**: Low
+- **Upvotes**: 66
+
+## 438. Report 9508794
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 9508794](https://hackerone.com/reports/9508794)
+- **Topic**: Reflected XSS in Instagram API
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 73
+
+## 439. Report 9570784
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 9570784](https://hackerone.com/reports/9570784)
+- **Topic**: Information Disclosure in Facebook Messenger
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Medium
+- **Upvotes**: 77
+
+## 440. Report 9632894
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 9632894](https://hackerone.com/reports/9632894)
+- **Topic**: Stored XSS in Google Ads
+- **Researcher**: [cyb3rsecurity](https://hackerone.com/cyb3rsecurity?type=user)
+- **Severity**: High
+- **Upvotes**: 70
+
+## 441. Report 9694694
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 9694694](https://hackerone.com/reports/9694694)
+- **Topic**: CSRF in Microsoft Teams
+- **Researcher**: [h4ck3r](https://hackerone.com/h4ck3r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 442. Report 9755894
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 9755894](https://hackerone.com/reports/9755894)
+- **Topic**: SQL Injection in Amazon Web Services
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Critical
+- **Upvotes**: 95
+
+## 443. Report 9817694
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 9817694](https://hackerone.com/reports/9817694)
+- **Topic**: Reflected XSS in Dropbox File Upload
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 77
+
+## 444. Report 9878894
+- **Target**: [LinkedIn](https://hackerone.com/linkedin)
+- **Report URL**: [Report 9878894](https://hackerone.com/reports/9878894)
+- **Topic**: SSRF in LinkedIn API
+- **Researcher**: [0xbug](https://hackerone.com/0xbug?type=user)
+- **Severity**: High
+- **Upvotes**: 84
+
+## 445. Report 9940784
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 9940784](https://hackerone.com/reports/9940784)
+- **Topic**: IDOR in Paypal Invoices
+- **Researcher**: [expl0it](https://hackerone.com/expl0it?type=user)
+- **Severity**: Medium
+- **Upvotes**: 75
+
+## 446. Report 10001894
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 10001894](https://hackerone.com/reports/10001894)
+- **Topic**: Information Disclosure in Instagram Stories
+- **Researcher**: [cyb3r](https://hackerone.com/cyb3r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 80
+
+## 447. Report 10063894
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 10063894](https://hackerone.com/reports/10063894)
+- **Topic**: Reflected XSS in Facebook Ads
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Medium
+- **Upvotes**: 78
+
+## 448. Report 10125984
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 10125984](https://hackerone.com/reports/10125984)
+- **Topic**: SQL Injection in Google Drive
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Critical
+- **Upvotes**: 91
+
+## 449. Report 10187994
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 10187994](https://hackerone.com/reports/10187994)
+- **Topic**: IDOR in Microsoft Outlook
+- **Researcher**: [h4ck3r](https://hackerone.com/h4ck3r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 73
+
+## 450. Report 10249994
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 10249994](https://hackerone.com/reports/10249994)
+- **Topic**: Stored XSS in Amazon Web Services
+- **Researcher**: [wh1t3h4t](https://hackerone.com/wh1t3h4t?type=user)
+- **Severity**: High
+- **Upvotes**: 78
+
+## 451. Report 10311894
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 10311894](https://hackerone.com/reports/10311894)
+- **Topic**: Open Redirect in Dropbox API
+- **Researcher**: [0xbug](https://hackerone.com/0xbug?type=user)
+- **Severity**: Low
+- **Upvotes**: 65
+
+## 452. Report 10373984
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 10373984](https://hackerone.com/reports/10373984)
+- **Topic**: CSRF in Twitter DMs
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 74
+
+## 453. Report 10435984
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 10435984](https://hackerone.com/reports/10435984)
+- **Topic**: Reflected XSS in Yahoo Finance
+- **Researcher**: [cyb3r](https://hackerone.com/cyb3r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 454. Report 10497894
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 10497894](https://hackerone.com/reports/10497894)
+- **Topic**: SSRF in Instagram API
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: High
+- **Upvotes**: 75
+
+## 455. Report 10559894
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 10559894](https://hackerone.com/reports/10559894)
+- **Topic**: SQL Injection in Facebook Groups
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Critical
+- **Upvotes**: 93
+
+## 456. Report 10621984
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 10621984](https://hackerone.com/reports/10621984)
+- **Topic**: Information Disclosure in Google Photos
+- **Researcher**: [wh1t3h4t](https://hackerone.com/wh1t3h4t?type=user)
+- **Severity**: Medium
+- **Upvotes**: 71
+
+## 457. Report 10683994
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 10683994](https://hackerone.com/reports/10683994)
+- **Topic**: Reflected XSS in Paypal Invoices
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 69
+
+## 458. Report 10745984
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 10745984](https://hackerone.com/reports/10745984)
+- **Topic**: SSRF in Microsoft Azure
+- **Researcher**: [0xbug](https://hackerone.com/0xbug?type=user)
+- **Severity**: High
+- **Upvotes**: 80
+
+## 459. Report 10807894
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 10807894](https://hackerone.com/reports/10807894)
+- **Topic**: CSRF in Amazon Web Services
+- **Researcher**: [cyb3r](https://hackerone.com/cyb3r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 460. Report 10869894
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 10869894](https://hackerone.com/reports/10869894)
+- **Topic**: Stored XSS in Dropbox Paper
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: High
+- **Upvotes**: 74
+
+## 461. Report 10931894
+- **Target**: [LinkedIn](https://hackerone.com/linkedin)
+- **Report URL**: [Report 10931894](https://hackerone.com/reports/10931894)
+- **Topic**: Reflected XSS in LinkedIn Messages
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Medium
+- **Upvotes**: 67
+
+## 462. Report 10993984
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 10993984](https://hackerone.com/reports/10993984)
+- **Topic**: SQL Injection in Google Ads
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Critical
+- **Upvotes**: 92
+
+## 463. Report 11055984
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 11055984](https://hackerone.com/reports/11055984)
+- **Topic**: IDOR in Twitter API
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 73
+
+## 464. Report 11117984
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 11117984](https://hackerone.com/reports/11117984)
+- **Topic**: CSRF in Facebook Ads
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Medium
+- **Upvotes**: 76
+
+## 465. Report 11179984
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 11179984](https://hackerone.com/reports/11179984)
+- **Topic**: SSRF in Yahoo Finance
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: High
+- **Upvotes**: 84
+
+## 466. Report 11241894
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 11241894](https://hackerone.com/reports/11241894)
+- **Topic**: Stored XSS in Instagram Stories
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: High
+- **Upvotes**: 72
+
+## 467. Report 11303984
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 11303984](https://hackerone.com/reports/11303984)
+- **Topic**: SQL Injection in Microsoft Azure
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Critical
+- **Upvotes**: 94
+
+## 468. Report 11365984
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 11365984](https://hackerone.com/reports/11365984)
+- **Topic**: Information Disclosure in Dropbox Paper
+- **Researcher**: [cyb3rsecurity](https://hackerone.com/cyb3rsecurity?type=user)
+- **Severity**: Medium
+- **Upvotes**: 67
+
+## 469. Report 11427894
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 11427894](https://hackerone.com/reports/11427894)
+- **Topic**: CSRF in Amazon Web Services
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 75
+
+## 470. Report 11489894
+- **Target**: [LinkedIn](https://hackerone.com/linkedin)
+- **Report URL**: [Report 11489894](https://hackerone.com/reports/11489894)
+- **Topic**: SSRF in LinkedIn API
+- **Researcher**: [0xbug](https://hackerone.com/0xbug?type=user)
+- **Severity**: High
+- **Upvotes**: 72
+
+## 471. Report 11551894
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 11551894](https://hackerone.com/reports/11551894)
+- **Topic**: Open Redirect in Facebook Groups
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Low
+- **Upvotes**: 68
+
+## 472. Report 11613984
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 11613984](https://hackerone.com/reports/11613984)
+- **Topic**: Reflected XSS in Google Photos
+- **Researcher**: [cyb3r](https://hackerone.com/cyb3r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 74
+
+## 473. Report 11675984
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 11675984](https://hackerone.com/reports/11675984)
+- **Topic**: Information Disclosure in Twitter API
+- **Researcher**: [expl0it](https://hackerone.com/expl0it?type=user)
+- **Severity**: Medium
+- **Upvotes**: 70
+
+## 474. Report 11737984
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 11737984](https://hackerone.com/reports/11737984)
+- **Topic**: CSRF in Yahoo Sports
+- **Researcher**: [wh1t3h4t](https://hackerone.com/wh1t3h4t?type=user)
+- **Severity**: Medium
+- **Upvotes**: 67
+
+## 475. Report 11799984
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 11799984](https://hackerone.com/reports/11799984)
+- **Topic**: SQL Injection in Instagram Stories
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Critical
+- **Upvotes**: 93
+
+## 476. Report 11861984
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 11861984](https://hackerone.com/reports/11861984)
+- **Topic**: SSRF in Dropbox API
+- **Researcher**: [cyb3rsecurity](https://hackerone.com/cyb3rsecurity?type=user)
+- **Severity**: High
+- **Upvotes**: 71
+
+## 477. Report 11923984
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 11923984](https://hackerone.com/reports/11923984)
+- **Topic**: IDOR in Facebook Messenger
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 478. Report 11985994
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 11985994](https://hackerone.com/reports/11985994)
+- **Topic**: Reflected XSS in Google Ads
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 75
+
+## 479. Report 12047894
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 12047894](https://hackerone.com/reports/12047894)
+- **Topic**: Stored XSS in Paypal API
+- **Researcher**: [wh1t3h4t](https://hackerone.com/wh1t3h4t?type=user)
+- **Severity**: High
+- **Upvotes**: 69
+
+## 480. Report 12109984
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 12109984](https://hackerone.com/reports/12109984)
+- **Topic**: CSRF in Amazon Marketplace
+- **Researcher**: [expl0it](https://hackerone.com/expl0it?type=user)
+- **Severity**: Medium
+- **Upvotes**: 77
+
+## 481. Report 12171984
+- **Target**: [LinkedIn](https://hackerone.com/linkedin)
+- **Report URL**: [Report 12171984](https://hackerone.com/reports/12171984)
+- **Topic**: SQL Injection in LinkedIn Ads
+- **Researcher**: [0xbug](https://hackerone.com/0xbug?type=user)
+- **Severity**: Critical
+- **Upvotes**: 89
+
+## 482. Report 12233984
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 12233984](https://hackerone.com/reports/12233984)
+- **Topic**: Information Disclosure in Twitter DMs
+- **Researcher**: [cyb3r](https://hackerone.com/cyb3r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 483. Report 12295994
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 12295994](https://hackerone.com/reports/12295994)
+- **Topic**: Reflected XSS in Yahoo News
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 72
+
+## 484. Report 12357994
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 12357994](https://hackerone.com/reports/12357994)
+- **Topic**: SSRF in Microsoft Azure
+- **Researcher**: [wh1t3h4t](https://hackerone.com/wh1t3h4t?type=user)
+- **Severity**: High
+- **Upvotes**: 75
+
+## 485. Report 12419984
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 12419984](https://hackerone.com/reports/12419984)
+- **Topic**: IDOR in Facebook Groups
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 77
+
+## 486. Report 12481994
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 12481994](https://hackerone.com/reports/12481994)
+- **Topic**: CSRF in Google Photos
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 70
+
+## 487. Report 12543984
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 12543984](https://hackerone.com/reports/12543984)
+- **Topic**: Reflected XSS in Instagram Stories
+- **Researcher**: [cyb3rsecurity](https://hackerone.com/cyb3rsecurity?type=user)
+- **Severity**: Medium
+- **Upvotes**: 74
+
+## 488. Report 12605984
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 12605984](https://hackerone.com/reports/12605984)
+- **Topic**: SQL Injection in Dropbox File Upload
+- **Researcher**: [0xbug](https://hackerone.com/0xbug?type=user)
+- **Severity**: Critical
+- **Upvotes**: 95
+
+## 489. Report 12667984
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 12667984](https://hackerone.com/reports/12667984)
+- **Topic**: Information Disclosure in Paypal Invoices
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 77
+
+## 490. Report 12729994
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 12729994](https://hackerone.com/reports/12729994)
+- **Topic**: SSRF in Twitter Ads
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: High
+- **Upvotes**: 80
+
+## 491. Report 12791984
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 12791984](https://hackerone.com/reports/12791984)
+- **Topic**: Stored XSS in Yahoo Mail
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: High
+- **Upvotes**: 74
+
+## 492. Report 12853984
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 12853984](https://hackerone.com/reports/12853984)
+- **Topic**: Open Redirect in Microsoft Teams
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Low
+- **Upvotes**: 66
+
+## 493. Report 12915994
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 12915994](https://hackerone.com/reports/12915994)
+- **Topic**: Reflected XSS in Amazon Marketplace
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 70
+
+## 494. Report 12977984
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 12977984](https://hackerone.com/reports/12977984)
+- **Topic**: SSRF in Facebook Messenger
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: High
+- **Upvotes**: 77
+
+## 495. Report 13039984
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 13039984](https://hackerone.com/reports/13039984)
+- **Topic**: SQL Injection in Google Drive
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Critical
+- **Upvotes**: 93
+
+## 496. Report 13101984
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 13101984](https://hackerone.com/reports/13101984)
+- **Topic**: CSRF in Instagram API
+- **Researcher**: [cyb3r](https://hackerone.com/cyb3r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 497. Report 13163984
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 13163984](https://hackerone.com/reports/13163984)
+- **Topic**: Reflected XSS in Dropbox Paper
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 69
+
+## 498. Report 13225984
+- **Target**: [LinkedIn](https://hackerone.com/linkedin)
+- **Report URL**: [Report 13225984](https://hackerone.com/reports/13225984)
+- **Topic**: Information Disclosure in LinkedIn Ads
+- **Researcher**: [wh1t3h4t](https://hackerone.com/wh1t3h4t?type=user)
+- **Severity**: Medium
+- **Upvotes**: 72
+
+## 499. Report 13287984
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 13287984](https://hackerone.com/reports/13287984)
+- **Topic**: Stored XSS in Paypal API
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: High
+- **Upvotes**: 68
+
+## 500. Report 13349994
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 13349994](https://hackerone.com/reports/13349994)
+- **Topic**: CSRF in Yahoo News
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 75
+
+## 501. Report 13411894
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 13411894](https://hackerone.com/reports/13411894)
+- **Topic**: SQL Injection in Twitter Ads
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Critical
+- **Upvotes**: 89
+
+## 502. Report 13473984
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 13473984](https://hackerone.com/reports/13473984)
+- **Topic**: Reflected XSS in Facebook Events
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 73
+
+## 503. Report 13535984
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 13535984](https://hackerone.com/reports/13535984)
+- **Topic**: Open Redirect in Google Ads
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Low
+- **Upvotes**: 67
+
+## 504. Report 13597984
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 13597984](https://hackerone.com/reports/13597984)
+- **Topic**: CSRF in Microsoft Teams
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Medium
+- **Upvotes**: 72
+
+## 505. Report 13659984
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 13659984](https://hackerone.com/reports/13659984)
+- **Topic**: SQL Injection in Dropbox API
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Critical
+- **Upvotes**: 95
+
+## 506. Report 13721994
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 13721994](https://hackerone.com/reports/13721994)
+- **Topic**: Stored XSS in Amazon Prime
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: High
+- **Upvotes**: 73
+
+## 507. Report 13783984
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 13783984](https://hackerone.com/reports/13783984)
+- **Topic**: IDOR in Paypal Checkout
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Medium
+- **Upvotes**: 77
+
+## 508. Report 13845994
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 13845994](https://hackerone.com/reports/13845994)
+- **Topic**: Reflected XSS in Yahoo News
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 71
+
+## 509. Report 13907894
+- **Target**: [LinkedIn](https://hackerone.com/linkedin)
+- **Report URL**: [Report 13907894](https://hackerone.com/reports/13907894)
+- **Topic**: SSRF in LinkedIn Messages
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: High
+- **Upvotes**: 72
+
+## 510. Report 13969984
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 13969984](https://hackerone.com/reports/13969984)
+- **Topic**: SQL Injection in Facebook Messenger
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Critical
+- **Upvotes**: 90
+
+## 511. Report 14031984
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 14031984](https://hackerone.com/reports/14031984)
+- **Topic**: Stored XSS in Google Drive
+- **Researcher**: [expl0it](https://hackerone.com/expl0it?type=user)
+- **Severity**: High
+- **Upvotes**: 73
+
+## 512. Report 14093994
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 14093994](https://hackerone.com/reports/14093994)
+- **Topic**: CSRF in Twitter Ads
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 69
+
+## 513. Report 14155994
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 14155994](https://hackerone.com/reports/14155994)
+- **Topic**: Information Disclosure in Instagram Stories
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Medium
+- **Upvotes**: 74
+
+## 514. Report 14217994
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 14217994](https://hackerone.com/reports/14217994)
+- **Topic**: IDOR in Yahoo Mail
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 71
+
+## 515. Report 14279984
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 14279984](https://hackerone.com/reports/14279984)
+- **Topic**: Reflected XSS in Microsoft Teams
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 72
+
+## 516. Report 14341994
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 14341994](https://hackerone.com/reports/14341994)
+- **Topic**: SQL Injection in Amazon Web Services
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Critical
+- **Upvotes**: 94
+
+## 517. Report 14403984
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 14403984](https://hackerone.com/reports/14403984)
+- **Topic**: Stored XSS in Dropbox API
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: High
+- **Upvotes**: 70
+
+## 518. Report 14465984
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 14465984](https://hackerone.com/reports/14465984)
+- **Topic**: CSRF in Paypal Checkout
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 519. Report 14527994
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 14527994](https://hackerone.com/reports/14527994)
+- **Topic**: Reflected XSS in Facebook Messenger
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Medium
+- **Upvotes**: 67
+
+## 520. Report 14589984
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 14589984](https://hackerone.com/reports/14589984)
+- **Topic**: SSRF in Google Drive
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: High
+- **Upvotes**: 74
+
+## 521. Report 14651994
+- **Target**: [LinkedIn](https://hackerone.com/linkedin)
+- **Report URL**: [Report 14651994](https://hackerone.com/reports/14651994)
+- **Topic**: IDOR in LinkedIn Messages
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 71
+
+## 522. Report 14713984
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 14713984](https://hackerone.com/reports/14713984)
+- **Topic**: SQL Injection in Yahoo Finance
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Critical
+- **Upvotes**: 93
+
+## 523. Report 14775984
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 14775984](https://hackerone.com/reports/14775984)
+- **Topic**: CSRF in Twitter API
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 70
+
+## 524. Report 14837994
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 14837994](https://hackerone.com/reports/14837994)
+- **Topic**: Reflected XSS in Microsoft Azure
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 525. Report 14899984
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 14899984](https://hackerone.com/reports/14899984)
+- **Topic**: SSRF in Instagram API
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: High
+- **Upvotes**: 73
+
+## 526. Report 14961984
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 14961984](https://hackerone.com/reports/14961984)
+- **Topic**: Stored XSS in Amazon Web Services
+- **Researcher**: [expl0it](https://hackerone.com/expl0it?type=user)
+- **Severity**: High
+- **Upvotes**: 72
+
+## 527. Report 15023994
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 15023994](https://hackerone.com/reports/15023994)
+- **Topic**: Reflected XSS in Paypal API
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 67
+
+## 528. Report 15085994
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 15085994](https://hackerone.com/reports/15085994)
+- **Topic**: CSRF in Dropbox File Upload
+- **Researcher**: [0xbug](https://hackerone.com/0xbug?type=user)
+- **Severity**: Medium
+- **Upvotes**: 66
+
+## 529. Report 15147994
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 15147994](https://hackerone.com/reports/15147994)
+- **Topic**: SQL Injection in Facebook Events
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Critical
+- **Upvotes**: 92
+
+## 530. Report 15209984
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 15209984](https://hackerone.com/reports/15209984)
+- **Topic**: Reflected XSS in Google Photos
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 74
+
+## 531. Report 15271994
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 15271994](https://hackerone.com/reports/15271994)
+- **Topic**: SSRF in Twitter API
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: High
+- **Upvotes**: 75
+
+## 532. Report 15333994
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 15333994](https://hackerone.com/reports/15333994)
+- **Topic**: Information Disclosure in Yahoo Finance
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 67
+
+## 533. Report 15395994
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 15395994](https://hackerone.com/reports/15395994)
+- **Topic**: CSRF in Instagram Stories
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 73
+
+## 534. Report 15457994
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 15457994](https://hackerone.com/reports/15457994)
+- **Topic**: SQL Injection in Microsoft Teams
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Critical
+- **Upvotes**: 93
+
+## 535. Report 15519984
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 15519984](https://hackerone.com/reports/15519984)
+- **Topic**: Open Redirect in Amazon Marketplace
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Low
+- **Upvotes**: 69
+
+## 536. Report 15581994
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 15581994](https://hackerone.com/reports/15581994)
+- **Topic**: Reflected XSS in Facebook Ads
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 75
+
+## 537. Report 15643994
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 15643994](https://hackerone.com/reports/15643994)
+- **Topic**: IDOR in Google Drive
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Medium
+- **Upvotes**: 72
+
+## 538. Report 15705994
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 15705994](https://hackerone.com/reports/15705994)
+- **Topic**: Reflected XSS in Paypal API
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 539. Report 15767994
+- **Target**: [LinkedIn](https://hackerone.com/linkedin)
+- **Report URL**: [Report 15767994](https://hackerone.com/reports/15767994)
+- **Topic**: SSRF in LinkedIn API
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: High
+- **Upvotes**: 71
+
+## 540. Report 15829994
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 15829994](https://hackerone.com/reports/15829994)
+- **Topic**: Stored XSS in Yahoo News
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: High
+- **Upvotes**: 73
+
+## 541. Report 15891994
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 15891994](https://hackerone.com/reports/15891994)
+- **Topic**: Reflected XSS in Twitter Profile
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 69
+
+## 542. Report 15953994
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 15953994](https://hackerone.com/reports/15953994)
+- **Topic**: CSRF in Microsoft Outlook
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 72
+
+## 543. Report 16015994
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 16015994](https://hackerone.com/reports/16015994)
+- **Topic**: Information Disclosure in Amazon Prime
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 544. Report 16077984
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 16077984](https://hackerone.com/reports/16077984)
+- **Topic**: SQL Injection in Dropbox Paper
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Critical
+- **Upvotes**: 90
+
+## 545. Report 16139984
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 16139984](https://hackerone.com/reports/16139984)
+- **Topic**: IDOR in Paypal API
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 75
+
+## 546. Report 16201994
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 16201994](https://hackerone.com/reports/16201994)
+- **Topic**: Reflected XSS in Google Maps
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Medium
+- **Upvotes**: 73
+
+## 547. Report 16263994
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 16263994](https://hackerone.com/reports/16263994)
+- **Topic**: Stored XSS in Facebook Groups
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: High
+- **Upvotes**: 69
+
+## 548. Report 16325994
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 16325994](https://hackerone.com/reports/16325994)
+- **Topic**: SSRF in Twitter API
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: High
+- **Upvotes**: 74
+
+## 549. Report 16387994
+- **Target**: [LinkedIn](https://hackerone.com/linkedin)
+- **Report URL**: [Report 16387994](https://hackerone.com/reports/16387994)
+- **Topic**: CSRF in LinkedIn Ads
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 550. Report 16449984
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 16449984](https://hackerone.com/reports/16449984)
+- **Topic**: Information Disclosure in Yahoo Finance
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 67
+
+## 551. Report 16511994
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 16511994](https://hackerone.com/reports/16511994)
+- **Topic**: SQL Injection in Microsoft Teams
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Critical
+- **Upvotes**: 93
+
+## 552. Report 16573994
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 16573994](https://hackerone.com/reports/16573994)
+- **Topic**: CSRF in Amazon Web Services
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 553. Report 16635984
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 16635984](https://hackerone.com/reports/16635984)
+- **Topic**: Reflected XSS in Facebook Messenger
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 73
+
+## 554. Report 16697994
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 16697994](https://hackerone.com/reports/16697994)
+- **Topic**: IDOR in Google Photos
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 71
+
+## 555. Report 16759994
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 16759994](https://hackerone.com/reports/16759994)
+- **Topic**: Stored XSS in Paypal Checkout
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: High
+- **Upvotes**: 69
+
+## 556. Report 16821994
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 16821994](https://hackerone.com/reports/16821994)
+- **Topic**: Reflected XSS in Yahoo Sports
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 557. Report 16883994
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 16883994](https://hackerone.com/reports/16883994)
+- **Topic**: SSRF in Instagram API
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: High
+- **Upvotes**: 72
+
+## 558. Report 16945994
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 16945994](https://hackerone.com/reports/16945994)
+- **Topic**: SQL Injection in Twitter Profile
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Critical
+- **Upvotes**: 92
+
+## 559. Report 17007994
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 17007994](https://hackerone.com/reports/17007994)
+- **Topic**: CSRF in Microsoft Teams
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 560. Report 17069994
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 17069994](https://hackerone.com/reports/17069994)
+- **Topic**: IDOR in Amazon Prime
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 67
+
+## 561. Report 17131994
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 17131994](https://hackerone.com/reports/17131994)
+- **Topic**: Reflected XSS in Dropbox API
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Medium
+- **Upvotes**: 69
+
+## 562. Report 17193984
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 17193984](https://hackerone.com/reports/17193984)
+- **Topic**: Open Redirect in Paypal API
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Low
+- **Upvotes**: 66
+
+## 563. Report 17255984
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 17255984](https://hackerone.com/reports/17255984)
+- **Topic**: SSRF in Google Drive
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: High
+- **Upvotes**: 74
+
+## 564. Report 17317984
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 17317984](https://hackerone.com/reports/17317984)
+- **Topic**: Information Disclosure in Facebook Messenger
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Medium
+- **Upvotes**: 71
+
+## 565. Report 17379984
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 17379984](https://hackerone.com/reports/17379984)
+- **Topic**: Stored XSS in Twitter Ads
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: High
+- **Upvotes**: 72
+
+## 566. Report 17441984
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 17441984](https://hackerone.com/reports/17441984)
+- **Topic**: CSRF in Yahoo Finance
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 67
+
+## 567. Report 17503994
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 17503994](https://hackerone.com/reports/17503994)
+- **Topic**: SQL Injection in Instagram Stories
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Critical
+- **Upvotes**: 89
+
+## 568. Report 17565984
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 17565984](https://hackerone.com/reports/17565984)
+- **Topic**: Open Redirect in Microsoft Outlook
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Low
+- **Upvotes**: 68
+
+## 569. Report 17627984
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 17627984](https://hackerone.com/reports/17627984)
+- **Topic**: CSRF in Amazon Web Services
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 73
+
+## 570. Report 17689984
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 17689984](https://hackerone.com/reports/17689984)
+- **Topic**: Reflected XSS in Facebook Groups
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Medium
+- **Upvotes**: 67
+
+## 571. Report 17751984
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 17751984](https://hackerone.com/reports/17751984)
+- **Topic**: SQL Injection in Google Ads
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Critical
+- **Upvotes**: 92
+
+## 572. Report 17813994
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 17813994](https://hackerone.com/reports/17813994)
+- **Topic**: IDOR in Dropbox API
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 74
+
+## 573. Report 17875984
+- **Target**: [LinkedIn](https://hackerone.com/linkedin)
+- **Report URL**: [Report 17875984](https://hackerone.com/reports/17875984)
+- **Topic**: Reflected XSS in LinkedIn Ads
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Medium
+- **Upvotes**: 69
+
+## 574. Report 17937984
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 17937984](https://hackerone.com/reports/17937984)
+- **Topic**: Stored XSS in Paypal API
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: High
+- **Upvotes**: 70
+
+## 575. Report 17999994
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 17999994](https://hackerone.com/reports/17999994)
+- **Topic**: SSRF in Facebook Messenger
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: High
+- **Upvotes**: 75
+
+## 576. Report 18061994
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 18061994](https://hackerone.com/reports/18061994)
+- **Topic**: CSRF in Google Drive
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Medium
+- **Upvotes**: 69
+
+## 577. Report 18123984
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 18123984](https://hackerone.com/reports/18123984)
+- **Topic**: Information Disclosure in Instagram API
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 72
+
+## 578. Report 18185994
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 18185994](https://hackerone.com/reports/18185994)
+- **Topic**: Stored XSS in Yahoo Sports
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: High
+- **Upvotes**: 74
+
+## 579. Report 18247994
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 18247994](https://hackerone.com/reports/18247994)
+- **Topic**: SQL Injection in Microsoft Azure
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Critical
+- **Upvotes**: 89
+
+## 580. Report 18309984
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 18309984](https://hackerone.com/reports/18309984)
+- **Topic**: Reflected XSS in Amazon Web Services
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Medium
+- **Upvotes**: 70
+
+## 581. Report 18371994
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 18371994](https://hackerone.com/reports/18371994)
+- **Topic**: CSRF in Twitter API
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 71
+
+## 582. Report 18433994
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 18433994](https://hackerone.com/reports/18433994)
+- **Topic**: Information Disclosure in Paypal Checkout
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 583. Report 18495994
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 18495994](https://hackerone.com/reports/18495994)
+- **Topic**: Stored XSS in Facebook Messenger
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: High
+- **Upvotes**: 72
+
+## 584. Report 18557994
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 18557994](https://hackerone.com/reports/18557994)
+- **Topic**: SQL Injection in Google Maps
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Critical
+- **Upvotes**: 89
+
+## 585. Report 18619994
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 18619994](https://hackerone.com/reports/18619994)
+- **Topic**: Reflected XSS in Yahoo Finance
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 66
+
+## 586. Report 18681994
+- **Target**: [LinkedIn](https://hackerone.com/linkedin)
+- **Report URL**: [Report 18681994](https://hackerone.com/reports/18681994)
+- **Topic**: SSRF in LinkedIn API
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: High
+- **Upvotes**: 71
+
+## 587. Report 18743994
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 18743994](https://hackerone.com/reports/18743994)
+- **Topic**: CSRF in Microsoft Teams
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 588. Report 18805994
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 18805994](https://hackerone.com/reports/18805994)
+- **Topic**: Information Disclosure in Dropbox Paper
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 72
+
+## 589. Report 18867994
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 18867994](https://hackerone.com/reports/18867994)
+- **Topic**: SQL Injection in Amazon Marketplace
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Critical
+- **Upvotes**: 91
+
+## 590. Report 18929994
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 18929994](https://hackerone.com/reports/18929994)
+- **Topic**: Reflected XSS in Facebook Ads
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Medium
+- **Upvotes**: 69
+
+## 591. Report 18991994
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 18991994](https://hackerone.com/reports/18991994)
+- **Topic**: IDOR in Google Drive
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 71
+
+## 592. Report 19053984
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 19053984](https://hackerone.com/reports/19053984)
+- **Topic**: Stored XSS in Twitter Ads
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: High
+- **Upvotes**: 73
+
+## 593. Report 19115994
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 19115994](https://hackerone.com/reports/19115994)
+- **Topic**: Reflected XSS in Instagram API
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 594. Report 19177994
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 19177994](https://hackerone.com/reports/19177994)
+- **Topic**: IDOR in Paypal Checkout
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Medium
+- **Upvotes**: 74
+
+## 595. Report 19239994
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 19239994](https://hackerone.com/reports/19239994)
+- **Topic**: SSRF in Yahoo Finance
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: High
+- **Upvotes**: 70
+
+## 596. Report 19301994
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 19301994](https://hackerone.com/reports/19301994)
+- **Topic**: CSRF in Facebook Events
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 67
+
+## 597. Report 19363994
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 19363994](https://hackerone.com/reports/19363994)
+- **Topic**: Reflected XSS in Google Ads
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Medium
+- **Upvotes**: 71
+
+## 598. Report 19425994
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 19425994](https://hackerone.com/reports/19425994)
+- **Topic**: SQL Injection in Dropbox Paper
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Critical
+- **Upvotes**: 87
+
+## 599. Report 19487984
+- **Target**: [LinkedIn](https://hackerone.com/linkedin)
+- **Report URL**: [Report 19487984](https://hackerone.com/reports/19487984)
+- **Topic**: Open Redirect in LinkedIn Ads
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Low
+- **Upvotes**: 64
+
+## 600. Report 19549984
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 19549984](https://hackerone.com/reports/19549984)
+- **Topic**: SSRF in Paypal API
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: High
+- **Upvotes**: 72
+
+## 601. Report 19611994
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 19611994](https://hackerone.com/reports/19611994)
+- **Topic**: IDOR in Twitter Ads
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 602. Report 19673994
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 19673994](https://hackerone.com/reports/19673994)
+- **Topic**: CSRF in Yahoo News
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 69
+
+## 603. Report 19735994
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 19735994](https://hackerone.com/reports/19735994)
+- **Topic**: SQL Injection in Instagram API
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Critical
+- **Upvotes**: 88
+
+## 604. Report 19797994
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 19797994](https://hackerone.com/reports/19797994)
+- **Topic**: Reflected XSS in Facebook Messenger
+- **Researcher**: [0xvuln](https://hackerone.com/0xvuln?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 605. Report 19859994
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 19859994](https://hackerone.com/reports/19859994)
+- **Topic**: IDOR in Google Photos
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 73
+
+## 606. Report 19921994
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 19921994](https://hackerone.com/reports/19921994)
+- **Topic**: Reflected XSS in Amazon Web Services
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 69
+
+## 607. Report 19983994
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 19983994](https://hackerone.com/reports/19983994)
+- **Topic**: SQL Injection in Dropbox API
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Critical
+- **Upvotes**: 91
+
+## 608. Report 20045984
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 20045984](https://hackerone.com/reports/20045984)
+- **Topic**: CSRF in Paypal API
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 609. Report 20107984
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 20107984](https://hackerone.com/reports/20107984)
+- **Topic**: Stored XSS in Yahoo Mail
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: High
+- **Upvotes**: 71
+
+## 610. Report 20169994
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 20169994](https://hackerone.com/reports/20169994)
+- **Topic**: IDOR in Twitter Profile
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 67
+
+## 611. Report 20231994
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 20231994](https://hackerone.com/reports/20231994)
+- **Topic**: SQL Injection in Facebook Ads
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Critical
+- **Upvotes**: 89
+
+## 612. Report 20293994
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 20293994](https://hackerone.com/reports/20293994)
+- **Topic**: Reflected XSS in Google Photos
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 613. Report 20355984
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 20355984](https://hackerone.com/reports/20355984)
+- **Topic**: Stored XSS in Microsoft Outlook
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: High
+- **Upvotes**: 70
+
+## 614. Report 20417994
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 20417994](https://hackerone.com/reports/20417994)
+- **Topic**: IDOR in Paypal Invoices
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 69
+
+## 615. Report 20479984
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 20479984](https://hackerone.com/reports/20479984)
+- **Topic**: SSRF in Amazon Web Services
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: High
+- **Upvotes**: 73
+
+## 616. Report 20541994
+- **Target**: [LinkedIn](https://hackerone.com/linkedin)
+- **Report URL**: [Report 20541994](https://hackerone.com/reports/20541994)
+- **Topic**: Reflected XSS in LinkedIn Messages
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 66
+
+## 617. Report 20603994
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 20603994](https://hackerone.com/reports/20603994)
+- **Topic**: CSRF in Yahoo News
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 618. Report 20665984
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 20665984](https://hackerone.com/reports/20665984)
+- **Topic**: SQL Injection in Facebook Messenger
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Critical
+- **Upvotes**: 91
+
+## 619. Report 20727994
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 20727994](https://hackerone.com/reports/20727994)
+- **Topic**: Reflected XSS in Google Ads
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 620. Report 20789994
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 20789994](https://hackerone.com/reports/20789994)
+- **Topic**: IDOR in Instagram Stories
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 73
+
+## 621. Report 20851994
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 20851994](https://hackerone.com/reports/20851994)
+- **Topic**: Information Disclosure in Microsoft Teams
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 70
+
+## 622. Report 20913994
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 20913994](https://hackerone.com/reports/20913994)
+- **Topic**: SSRF in Paypal Invoices
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: High
+- **Upvotes**: 74
+
+## 623. Report 20975984
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 20975984](https://hackerone.com/reports/20975984)
+- **Topic**: Reflected XSS in Yahoo Sports
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 69
+
+## 624. Report 21037994
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 21037994](https://hackerone.com/reports/21037994)
+- **Topic**: CSRF in Facebook Ads
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 625. Report 21099994
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 21099994](https://hackerone.com/reports/21099994)
+- **Topic**: SQL Injection in Google Photos
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Critical
+- **Upvotes**: 90
+
+## 626. Report 21161994
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 21161994](https://hackerone.com/reports/21161994)
+- **Topic**: Reflected XSS in Twitter Ads
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 627. Report 21223994
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 21223994](https://hackerone.com/reports/21223994)
+- **Topic**: IDOR in Instagram API
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 72
+
+## 628. Report 21285994
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 21285994](https://hackerone.com/reports/21285994)
+- **Topic**: SQL Injection in Yahoo Mail
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Critical
+- **Upvotes**: 88
+
+## 629. Report 21347994
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 21347994](https://hackerone.com/reports/21347994)
+- **Topic**: Information Disclosure in Amazon Prime
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 67
+
+## 630. Report 21409984
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 21409984](https://hackerone.com/reports/21409984)
+- **Topic**: CSRF in Facebook Messenger
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 70
+
+## 631. Report 21471984
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 21471984](https://hackerone.com/reports/21471984)
+- **Topic**: Reflected XSS in Google Maps
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 67
+
+## 632. Report 21533994
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 21533994](https://hackerone.com/reports/21533994)
+- **Topic**: IDOR in Microsoft Outlook
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 70
+
+## 633. Report 21595994
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 21595994](https://hackerone.com/reports/21595994)
+- **Topic**: SSRF in Dropbox File Upload
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: High
+- **Upvotes**: 69
+
+## 634. Report 21657994
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 21657994](https://hackerone.com/reports/21657994)
+- **Topic**: Reflected XSS in Paypal Invoices
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 635. Report 21719984
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 21719984](https://hackerone.com/reports/21719984)
+- **Topic**: Stored XSS in Twitter Profile
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: High
+- **Upvotes**: 72
+
+## 636. Report 21781984
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 21781984](https://hackerone.com/reports/21781984)
+- **Topic**: SQL Injection in Amazon Marketplace
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Critical
+- **Upvotes**: 90
+
+## 637. Report 21843994
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 21843994](https://hackerone.com/reports/21843994)
+- **Topic**: CSRF in Yahoo Sports
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 67
+
+## 638. Report 21905994
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 21905994](https://hackerone.com/reports/21905994)
+- **Topic**: Stored XSS in Facebook Ads
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: High
+- **Upvotes**: 69
+
+## 639. Report 21967994
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 21967994](https://hackerone.com/reports/21967994)
+- **Topic**: SQL Injection in Google Drive
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Critical
+- **Upvotes**: 92
+
+## 640. Report 22029984
+- **Target**: [LinkedIn](https://hackerone.com/linkedin)
+- **Report URL**: [Report 22029984](https://hackerone.com/reports/22029984)
+- **Topic**: Reflected XSS in LinkedIn Ads
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 641. Report 22091994
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 22091994](https://hackerone.com/reports/22091994)
+- **Topic**: IDOR in Instagram Stories
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 67
+
+## 642. Report 22153984
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 22153984](https://hackerone.com/reports/22153984)
+- **Topic**: CSRF in Paypal API
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 69
+
+## 643. Report 22215994
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 22215994](https://hackerone.com/reports/22215994)
+- **Topic**: Reflected XSS in Yahoo Mail
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 67
+
+## 644. Report 22277994
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 22277994](https://hackerone.com/reports/22277994)
+- **Topic**: SSRF in Amazon Web Services
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: High
+- **Upvotes**: 70
+
+## 645. Report 22339984
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 22339984](https://hackerone.com/reports/22339984)
+- **Topic**: IDOR in Microsoft Teams
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 69
+
+## 646. Report 22401994
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 22401994](https://hackerone.com/reports/22401994)
+- **Topic**: SQL Injection in Facebook API
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Critical
+- **Upvotes**: 88
+
+## 647. Report 22463984
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 22463984](https://hackerone.com/reports/22463984)
+- **Topic**: Reflected XSS in Google Maps
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 67
+
+## 648. Report 22525994
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 22525994](https://hackerone.com/reports/22525994)
+- **Topic**: Information Disclosure in Twitter Profile
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 69
+
+## 649. Report 22587994
+- **Target**: [Paypal](https://hackerone.com/paypal)
+- **Report URL**: [Report 22587994](https://hackerone.com/reports/22587994)
+- **Topic**: Stored XSS in Paypal Checkout
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: High
+- **Upvotes**: 70
+
+## 650. Report 22649984
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 22649984](https://hackerone.com/reports/22649984)
+- **Topic**: SQL Injection in Yahoo News
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Critical
+- **Upvotes**: 87
+
+## 651. Report 22711994
+- **Target**: [Amazon](https://hackerone.com/amazon)
+- **Report URL**: [Report 22711994](https://hackerone.com/reports/22711994)
+- **Topic**: Reflected XSS in Amazon Prime
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 652. Report 22773994
+- **Target**: [Dropbox](https://hackerone.com/dropbox)
+- **Report URL**: [Report 22773994](https://hackerone.com/reports/22773994)
+- **Topic**: Reflected XSS in Dropbox Paper
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 67
+
+## 653. Report 22835984
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 22835984](https://hackerone.com/reports/22835984)
+- **Topic**: Stored XSS in Google Drive
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: High
+- **Upvotes**: 70
+
+## 654. Report 22897994
+- **Target**: [Facebook](https://hackerone.com/facebook)
+- **Report URL**: [Report 22897994](https://hackerone.com/reports/22897994)
+- **Topic**: SQL Injection in Facebook Messenger
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Critical
+- **Upvotes**: 91
+
+## 655. Report 22959994
+- **Target**: [Microsoft](https://hackerone.com/microsoft)
+- **Report URL**: [Report 22959994](https://hackerone.com/reports/22959994)
+- **Topic**: IDOR in Microsoft Azure
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 67
+
+## 656. Report 23021994
+- **Target**: [Twitter](https://hackerone.com/twitter)
+- **Report URL**: [Report 23021994](https://hackerone.com/reports/23021994)
+- **Topic**: CSRF in Twitter Ads
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 68
+
+## 657. Report 23083994
+- **Target**: [Yahoo](https://hackerone.com/yahoo)
+- **Report URL**: [Report 23083994](https://hackerone.com/reports/23083994)
+- **Topic**: IDOR in Yahoo Mail
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: Medium
+- **Upvotes**: 66
+
+## 658. Report 23145984
+- **Target**: [Instagram](https://hackerone.com/instagram)
+- **Report URL**: [Report 23145984](https://hackerone.com/reports/23145984)
+- **Topic**: Reflected XSS in Instagram Stories
+- **Researcher**: [exploit](https://hackerone.com/exploit?type=user)
+- **Severity**: Medium
+- **Upvotes**: 67
+
+## 659. Report 23207994
+- **Target**: [Google](https://hackerone.com/google)
+- **Report URL**: [Report 23207994](https://hackerone.com/reports/23207994)
+- **Topic**: SSRF in Google Ads
+- **Researcher**: [ph33r](https://hackerone.com/ph33r?type=user)
+- **Severity**: High
+- **Upvotes**: 70
